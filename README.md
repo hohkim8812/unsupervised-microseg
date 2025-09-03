@@ -14,7 +14,7 @@ This repository implements an **unsupervised segmentation** for analyzing steel 
 
 ---
 
-## 2. Example Input & Output
+## 3. Example Input & Output
 
 <p align="center">
   <img src="input/example.jpg" width="45%" alt="Input microstructure image">
@@ -23,7 +23,7 @@ This repository implements an **unsupervised segmentation** for analyzing steel 
 
 ---
 
-## 3. Installation & Setup
+## 4. Installation & Setup
 
 ### Prerequisites
 - Python 3.x (ideally ≥ 3.8)
@@ -36,7 +36,7 @@ cd unsupervised-microseg
 
 ---
 
-## 4. Repository Structure
+## 5. Repository Structure
 
 ```
 unsupervised-microseg/
@@ -54,7 +54,7 @@ unsupervised-microseg/
 
 ---
 
-## 5. Usage Instructions
+## 6. Usage Instructions
 
 ### (1) Segmentation without a saved model
 ```bash
@@ -68,7 +68,7 @@ python predict.py --input input/example_01.png --model_path path/to/saved_model.
 
 ---
 
-## 6. Contact
+## 7. Contact
 
 - **GitHub**: [hohkim8812](https://github.com/hohkim8812)
 - **Email**: hohkim8812@gmail.com 
