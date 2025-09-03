@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+
+# Data / outputs
+data/
+outputs/
+checkpoints/
+runs/
+wandb/
+.cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
