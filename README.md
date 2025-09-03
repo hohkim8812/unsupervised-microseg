@@ -27,13 +27,11 @@ This repository implements an **unsupervised segmentation** for analyzing steel 
 
 ### Prerequisites
 - Python 3.x (ideally ≥ 3.8)
-- All dependencies listed in `requirements.txt`
 
 ### Installation
 ```bash
 git clone https://github.com/hohkim8812/unsupervised-microseg.git
 cd unsupervised-microseg
-pip install -r requirements.txt
 ```
 
 ---
@@ -51,8 +49,7 @@ unsupervised-microseg/
 ├── main.py                      # Training/segmentation pipeline
 ├── model.py                     # Unsupervised segmentation model
 ├── predict.py                   # Single-image inference
-├── utils.py                     # Utility functions (data loading, metrics, etc.)
-└── requirements.txt             # Dependency list
+└── utils.py                     # Utility functions (data loading, metrics, etc.)
 ```
 
 ---
