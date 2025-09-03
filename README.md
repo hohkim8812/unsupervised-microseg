@@ -12,6 +12,10 @@ This repository contains the official Pytorch implementation of the following pa
 
 This repository implements an **unsupervised segmentation** for analyzing steel microstructures without labeled data. It leverages convolutional neural networks combined with superpixel techniques to mimic human's phase recognition strategies.
 
+<p align="center">
+  <img src="input/example_01.png" width="45%" alt="Input microstructure image">
+  <img src="output/example/segmented_01.png" width="45%" alt="Unsupervised segmentation result">
+</p>
 ---
 
 ## 2. Example Input & Output
