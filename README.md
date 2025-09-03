@@ -1,6 +1,4 @@
 
-# **unsupervised-microseg**
-
 **Unsupervised segmentation for microstructure analysis in steel alloys**
 ---
 ## 1. Reference
