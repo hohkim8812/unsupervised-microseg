@@ -41,10 +41,10 @@ cd unsupervised-microseg
 ```
 unsupervised-microseg/
 ├── input/
-│   └── example_01.png           # Sample microstructure image
+│   └── example.png           # Sample microstructure image
 ├── output/
 │   └── example/
-│       └── segmented_01.png     # Segmentation result
+│       └── 240505_01.png     # Segmentation result
 ├── config.py                    # Hyperparameters and settings
 ├── main.py                      # Training/segmentation pipeline
 ├── model.py                     # Unsupervised segmentation model
